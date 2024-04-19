@@ -25,14 +25,14 @@ const INFO = {
 	},
 
 	projects: [
-		{
-			title: "ZenithSounds",
-			description:
-				"Um projeto para uma aplicação web de reprodução de música e podcasts, utilizando a API do Spotify, desenvolvido com React, tendo autenticação de usuário, criação de usuário, armazenando todos os usuários em um database em MySQL.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
-			linkText: "Ver Projeto",
-			link: "https://github.com/Zilla3k/ZenithSounds",
-		},
+		// {
+		// 	title: "ZenithSounds",
+		// 	description:
+		// 		"Um projeto para uma aplicação web de reprodução de música e podcasts, utilizando a API do Spotify, desenvolvido com React, tendo autenticação de usuário, criação de usuário, armazenando todos os usuários em um database em MySQL.",
+		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
+		// 	linkText: "Ver Projeto",
+		// 	link: "https://github.com/Zilla3k/ZenithSounds",
+		// },
 		{
 			title: "API Java",
 			description: "API simples usando Java Spring Boot",
