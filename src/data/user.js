@@ -57,14 +57,6 @@ const INFO = {
 			link: "https://github.com/Zilla3k/QuickTweet",
 		},
 		{
-			title: "Animais Fantásticos",
-			description:
-				"Animais Fantásticos é um projeto desenvolvido com HTML, CSS e JavaScript, sendo um projeto focado para desenvolver conhecimento em manipulação do DOM.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "Ver Projeto",
-			link: "https://github.com/Zilla3k/Animais-Fantasticos",
-		},
-		{
 			title: "Bikcraft",
 			description:
 				"Bikcraft é um projeto estruturado usando HTML, CSS e JavaScript, sendo um projeto focado para desenvolver conhecimento em estilização apenas com CSS",
