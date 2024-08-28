@@ -1,13 +1,13 @@
 const INFO = {
 	main: {
-		title: "Henrique Pelanda Possebon - Desenvolvedor Back-end web",
+		title: "Henrique Pelanda Possebon - Desenvolvedor Back-end",
 		name: "Henrique P.",
 		email: "henriquepelanda.web@gmail.com",
 		logo: "https://github.com/zilla3k.png",
 	},
 
 	socials: {
-		twitter: "https://twitter.com/henripp1_",
+		twitter: "https://x.com/henripp1_",
 		github: "https://github.com/zilla3k",
 		linkedin: "https://linkedin.com/in/henrique-pelanda",
 	},
@@ -15,13 +15,13 @@ const INFO = {
 	homepage: {
 		title: "Desenvolvedor Back-end web, e um amador Ui/Ux.",
 		description:
-			"Sou um desenvolvedor backend com experiência em Node.js. Tenho experiência na construção de aplicações web escaláveis, seguras e confiáveis usando vários frameworks e tecnologias. Gosto de resolver problemas complexos e aprender novas habilidades. Sou apaixonado por criar código de alta qualidade que siga as melhores práticas e padrões do setor. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. ",
+			"Sou um desenvolvedor backend, apaixonado por Java e JavaScript. Gosto de resolver problemas complexos para aprender novas habilidades. Sou apaixonado por criar código de alta qualidade que siga as melhores práticas e padrões do setor. Estou sempre em busca de novos desafios e oportunidades para crescer como desenvolvedor. ",
 	},
 
 	about: {
 		title: "Meu nome é Henrique P. e eu moro no Brasil, onde projeto o meu futuro. ",
 		description:
-			"Olá, meu nome é Henrique, eu tenho 22 anos, sou formado em Gestão da Tecnologia da Informação, e estou me graduando em Ciência da Computação, me formo em Junho de 2027, além da graduação estudo atuais tecnologias de desenvolvimento e de Ui/Ux Design. Atualmente estou estudando Java e Kotlin.",
+			"Olá estranho, gostei de saber que veio atrás de mais informações, bom meu foco principal de carreira é me tornar um dev Backend Java, e virar um nômade morando em varios países pelo mundo, minhas principais techs são Java e JavaScript, mas também tenho conhecimento em HTML, CSS, React, TypeScript, NodeJS e também SAP ABAP (Por essa você não esperava),Apex e me dou muito bem com SQL e PL/SQL. Meu principal idioma é o Português mas falo Inglês e Espanhol quase fluentemente, e atualmente estou aprendendo Alemão.",
 	},
 
 	projects: [
@@ -55,14 +55,6 @@ const INFO = {
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
 			linkText: "Ver Projeto",
 			link: "https://github.com/Zilla3k/QuickTweet",
-		},
-		{
-			title: "Bikcraft",
-			description:
-				"Bikcraft é um projeto estruturado usando HTML, CSS e JavaScript, sendo um projeto focado para desenvolver conhecimento em estilização apenas com CSS",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/css/css.png",
-			linkText: "Ver Projeto",
-			link: "https://github.com/Zilla3k/Bikcraft",
 		},
 	],
 };
