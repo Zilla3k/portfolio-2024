@@ -21,18 +21,24 @@ const INFO = {
 	about: {
 		title: "Meu nome é Henrique P. e eu moro no Brasil, onde projeto o meu futuro. ",
 		description:
-			"Olá estranho, gostei de saber que veio atrás de mais informações, bom meu foco principal de carreira é me tornar um dev Backend Java, e virar um nômade morando em varios países pelo mundo, minhas principais techs são Java e JavaScript, mas também tenho conhecimento em HTML, CSS, React, TypeScript, NodeJS e também SAP ABAP (Por essa você não esperava),Apex e me dou muito bem com SQL e PL/SQL. Meu principal idioma é o Português mas falo Inglês e Espanhol quase fluentemente, e atualmente estou aprendendo Alemão.",
+			"Olá estranho, meu foco principal de carreira é ser um Dev Backend Java Especialista, e virar um nômade morando em varios países pelo mundo, minhas principais techs são Java e JavaScript, mas também tenho conhecimento em HTML, CSS, React, TypeScript, NodeJS, Apex e me dou muito bem com SQL e PL/SQL. Meu principal idioma é o Português mas falo Inglês quase fluentemente e um pouco de Espanhol, e atualmente estou aprendendo Alemão.",
 	},
 
 	projects: [
-		// {
-		// 	title: "ZenithSounds",
-		// 	description:
-		// 		"Um projeto para uma aplicação web de reprodução de música e podcasts, utilizando a API do Spotify, desenvolvido com React, tendo autenticação de usuário, criação de usuário, armazenando todos os usuários em um database em MySQL.",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/typescript/typescript.png",
-		// 	linkText: "Ver Projeto",
-		// 	link: "https://github.com/Zilla3k/ZenithSounds",
-		// },
+		{	
+			title: "API Gerenciamento de Vagas de emprego",
+			description: "API REST usando Java Spring Boot, e Postgres para armazenamento e gerenciamento de vagas e candidatos.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			linkText: "Ver Projeto",
+			link: "https://github.com/Zilla3k/gstvgs",
+		},
+		{
+			title: "API Barbearia",
+			description: "API REST usando NodeJS, Fastify e MySQL para armazenamento e gerenciamento de barbearias e clientes.",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			linkText: "Ver Projeto",
+			link: "https://github.com/Zilla3k/gstvgs",
+		},
 		{
 			title: "API Java",
 			description: "API simples usando Java Spring Boot",
