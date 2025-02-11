@@ -35,7 +35,7 @@ const INFO = {
 		{
 			title: "API Barbearia",
 			description: "API REST usando NodeJS, Fastify e MySQL para armazenamento e gerenciamento de barbearias e clientes.",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/java/java.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "Ver Projeto",
 			link: "https://github.com/Zilla3k/gstvgs",
 		},
