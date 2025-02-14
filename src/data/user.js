@@ -37,7 +37,7 @@ const INFO = {
 			description: "API REST usando NodeJS, Fastify e MySQL para armazenamento e gerenciamento de barbearias e clientes.",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "Ver Projeto",
-			link: "https://github.com/Zilla3k/gstvgs",
+			link: "https://github.com/Zilla3k/z3kobstrning",
 		},
 		{
 			title: "API Java",
